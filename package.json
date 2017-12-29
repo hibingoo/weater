@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hibingoo/weater/issues"
   },
-  "homepage": "https://github.com/hibingoo/weater#readme"
+  "homepage": "https://github.com/hibingoo/weater#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
 }
